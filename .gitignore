@@ -13,6 +13,7 @@ hs_err_pid*
 
 # settings for intellij idea project
 .idea/
+out/
 /test.iml
 
 # settings for eclipse project
